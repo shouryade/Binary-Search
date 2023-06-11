@@ -1,6 +1,6 @@
 # BinarySearchGalaxy
 
-Welcome to The Binary Search Awakens, a practice repository for myself dedicated to binary search ! 🚀
+Welcome to The Binary Search: The Force Awakens, a practice repository for myself for solving DSA problems on binary search ! 🚀
 
 ## What is Binary Search?
 
