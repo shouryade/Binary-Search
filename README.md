@@ -1,4 +1,4 @@
-# BinarySearchGalaxy
+# Binary Search : The Force Awakens
 
 Welcome to The Binary Search: The Force Awakens, a practice repository for myself for solving DSA problems on binary search ! 🚀
 
