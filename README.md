@@ -12,5 +12,6 @@ This repository contains:
 
 - **Implementation**: Binary Search algorithm implementation in C++, and some tricks using the C++ STL for binary search.
 - **Problem Set**: A set of binary search problems to practice and improve my binary search skills.
+  **NOTE** Here problems aren't just limited to applying binary search directly, but also for questions where we apply binary search in the search space.
 
 May the binary search be with you! 🌌
